@@ -20,3 +20,13 @@ echo "arquivo de 1 linha" >>Leonardo.txt
 dir
 type leonardo.txt
 doskey /h >Comandos_Hoje.txt
+doskey /h
+cls
+git status
+git add .
+git status
+git commit -m "Criado 3 novos Arquivos de minha autoria"
+git tag -a v1.2 -m "Adicionado 3 novos arquivos de minha autoria"
+git push -u origin 
+git push -u origin --tag
+doskey /h >Comandos_Hoje.txt
