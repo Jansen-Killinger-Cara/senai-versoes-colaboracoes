@@ -1,0 +1,22 @@
+cd C:\Users\ADM\Desktop\_gif\senai-versoes-colaboracoes
+git remote -v
+git push -u origin
+git push -u origin --force
+git push -u origin -f
+git push -u origin --tag
+git push -help
+dir /a /s /p
+cls
+copy con. Jansen.txt
+dir - listar os arquivos
+dir /s - lista tambem os subdiretorios
+dir /a - mostra ors arquivos ocultos
+dir /p - com pausa
+
+dir
+type jansen.txt
+cls
+echo "arquivo de 1 linha" >>Leonardo.txt
+dir
+type leonardo.txt
+doskey /h >Comandos_Hoje.txt
