@@ -30,3 +30,14 @@ git tag -a v1.2 -m "Adicionado 3 novos arquivos de minha autoria"
 git push -u origin 
 git push -u origin --tag
 doskey /h >Comandos_Hoje.txt
+git status
+git add .
+git push -u origin 
+git commit -m "Atualizei o arquivo Comandos_Hoje.txt"
+git push -u origin 
+git pull
+git pull --force
+git remote -v
+cls
+git submodule add https://github.com/Jansen-Killinger-Cara/senai-versoes-colaboracoes
+doskey /h >Comandos_Hoje.txt
